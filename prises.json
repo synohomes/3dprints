@@ -7,7 +7,7 @@
       "constructeur": "NOUS",
       "modele": "A1T",
       "description": "Profil Tasmota pour la prise connectée NOUS A1T avec alimentation, tension, puissance, intensité, consommation et informations réseau.",
-      "image": "https://raw.githubusercontent.com/TON-COMPTE/TON-DEPOT/main/images/prises/nous-a1t.png",
+      "image": "https://github.com/synohomes/3dprints/blob/main/nous-alt.jpg",
       "software": "Tasmota 14.x",
       "version_profil": "1.0.0",
       "dossier": "NOUS",
