@@ -7,7 +7,7 @@
       "constructeur": "Creality",
       "modele": "K2 Pro",
       "description": "Profil complet pour la Creality K2 Pro avec Klipper, Moonraker, caméra, CFS, températures, ventilateurs et informations système.",
-      "image": "https://raw.githubusercontent.com/TON-COMPTE/TON-DEPOT/main/images/imprimantes/creality-k2pro.png",
+      "image": "https://github.com/synohomes/3dprints/blob/main/K2PRO.jpg?raw=true",
       "software": "Creality OS 1.1.0.27",
       "version_profil": "1.0.0",
       "dossier": "K2PRO",
