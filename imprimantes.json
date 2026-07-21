@@ -1,14 +1,26 @@
-]
 {
+  "catalogue": "Profils d’imprimantes DMD-3DPRINT",
+  "version": 1,
+  "profiles": [
+    {
       "id": "creality-k2pro",
       "constructeur": "Creality",
       "modele": "K2 Pro",
-      "description": "Profil complet pour la Creality K2 Pro avec Klipper, Moonraker, caméra, CFS, températures, ventilateurs et informations système.",
-      "image": "https://github.com/synohomes/3dprints/blob/main/K2PRO.jpg?raw=true",
+      "description": "Profil complet pour la Creality K2 Pro avec caméra, CFS, températures, ventilateurs et informations système.",
       "software": "Creality OS 1.1.0.27",
       "version_profil": "1.0.0",
       "dossier": "K2PRO",
-      "lien": "https://github.com/TON-COMPTE/TON-DEPOT/releases/download/k2pro-v1.0.0/K2PRO.zip",
-      "sha256": ""
+      "image": "https://raw.githubusercontent.com/TON-COMPTE/TON-DEPOT/main/imprimantes/K2PRO/image.png",
+      "fichiers": [
+        {
+          "nom": "K2PRO.php",
+          "lien": "https://raw.githubusercontent.com/TON-COMPTE/TON-DEPOT/main/imprimantes/K2PRO/K2PRO.php"
+        },
+        {
+          "nom": "image.png",
+          "lien": "https://raw.githubusercontent.com/TON-COMPTE/TON-DEPOT/main/imprimantes/K2PRO/image.png"
+        }
+      ]
     }
   ]
+}
