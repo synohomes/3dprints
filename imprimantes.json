@@ -6,7 +6,7 @@
     "description": " 4×CFS pour jusqu’à 16 couleurs.Chambre d’impression chauffée activement : Idéale pour les filaments techniques exigeants comme l’ABS et le PPA-CF.Double caméra IA : Ajustement automatique du débit et détection des erreurs. Grand volume d’impression (300×300×300 mm): Permet d’imprimer des modèles plus grands ou plusieurs pièces en une seule fois..",
     "image": "https://github.com/synohomes/3dprints/blob/main/K2PRO.jpg?raw=true",
     "software": "Creality OS 1.1.0.27",
-    "version_profil": "1.0.0",
+    "version_profil": "1.1.6.3",
     "dossier": "K2PRO",
     "lien": "https://github.com/synohomes/3dprints/raw/refs/heads/main/K2PRO.zip",
     "sha256": ""
