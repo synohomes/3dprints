@@ -4,7 +4,7 @@
     "constructeur": "NOUS",
     "modele": "A1T",
     "description": "Profil pour la prise NOUS A1T avec contrôle, mesures électriques, consommation et informations système.",
-    "image": "https://github.com/synohomes/3dprints/blob/main/nous-alt.jpg",
+    "image": "https://github.com/synohomes/3dprints/blob/main/nous-alt.jpg?raw=true",
     "software": "Tasmota 14.x",
     "version_profil": "1.0.0",
     "dossier": "NOUS",
