@@ -17,7 +17,7 @@
     "constructeur": "Je ne sais pas",
     "modele": "Pro1 S",
     "description": "Profil complet pour la Creality K2 Pro avec Klipper, Moonraker, caméra, CFS, températures, ventilateurs et informations système.",
-    "image": "https://github.com/synohomes/3dprints/blob/main/K2PRO.jpg?raw=true",
+    "image": "https://github.com/synohomes/3dprints/blob/main/p1s.png?raw=true",
     "software": "Creality OS 1.1.0.27",
     "version_profil": "1.4.0",
     "dossier": "P1S",
