@@ -1,17 +1,14 @@
-{
-  "catalogue": "DMD-3DPRINT - Profils prises",
-  "version": 1,
-  "profiles": [
-    {
-      "id": "nous-a1t",
-      "constructeur": "NOUS",
-      "modele": "A1T",
-      "description": "Profil Tasmota pour la prise connectée NOUS A1T avec alimentation, tension, puissance, intensité, consommation et informations réseau.",
-      "image": "https://github.com/synohomes/3dprints/blob/main/nous-alt.jpg",
-      "software": "Tasmota 14.x",
-      "version_profil": "1.0.0",
-      "dossier": "NOUS",
-      "lien": "https://github.com/TON-COMPTE/TON-DEPOT/releases/download/nous-a1t-v1.0.0/NOUS.zip",
-      "sha256": ""
-    }
-  ]
+[
+  {
+    "id": "nous-a1t",
+    "constructeur": "NOUS",
+    "modele": "A1T",
+    "description": "Profil pour la prise NOUS A1T avec contrôle, mesures électriques, consommation et informations système.",
+    "image": "https://github.com/synohomes/3dprints/blob/main/NOUS.jpg?raw=true",
+    "software": "Tasmota 14.x",
+    "version_profil": "1.0.0",
+    "dossier": "NOUS",
+    "lien": "LIEN_DIRECT_VERS_LE_ZIP_DU_PROFIL",
+    "sha256": ""
+  }
+]
