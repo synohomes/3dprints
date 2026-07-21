@@ -13,9 +13,9 @@
   },
 
   {
-    "id": "P1S",
-    "constructeur": "Je ne sais pas",
-    "modele": "Pro1 S",
+    "id": "bambuLab P1S",
+    "constructeur": "Bambu",
+    "modele": "Lab P1S Combo",
     "description": "La Bambu Lab P1S Combo est une imprimante entièrement fermée combinant polyvalence, fiabilité et simplicité d'utilisation. La Bambu Lab P1S Combo dispose d'un volume d'impression de 256 x 256 x 256 mm.  ",
     "image": "https://github.com/synohomes/3dprints/blob/main/p1s.png?raw=true",
     "software": "Creality OS 1.1.0.27",
