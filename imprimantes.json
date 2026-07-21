@@ -1,7 +1,4 @@
-{
-  "catalogue": "Profils d’imprimantes DMD-3DPRINT",
-  "version": 1,
-  "profiles": [
+[
     {
       "id": "creality-k2pro",
       "constructeur": "Creality",
@@ -22,5 +19,4 @@
         }
       ]
     }
-  ]
-}
+]
