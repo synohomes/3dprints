@@ -13,18 +13,5 @@
       "dossier": "NOUS",
       "lien": "https://github.com/TON-COMPTE/TON-DEPOT/releases/download/nous-a1t-v1.0.0/NOUS.zip",
       "sha256": ""
-    },
-    {
-      "id": "shelly-plus-plug-s",
-      "constructeur": "Shelly",
-      "modele": "Plus Plug S",
-      "description": "Profil pour Shelly Plus Plug S avec état, commande, tension, puissance et consommation.",
-      "image": "https://raw.githubusercontent.com/TON-COMPTE/TON-DEPOT/main/images/prises/shelly-plus-plug-s.png",
-      "software": "Shelly OS 1.5.x",
-      "version_profil": "1.0.0",
-      "dossier": "SHELLY_PLUS_PLUG_S",
-      "lien": "https://github.com/TON-COMPTE/TON-DEPOT/releases/download/shelly-plus-plug-s-v1.0.0/SHELLY_PLUS_PLUG_S.zip",
-      "sha256": ""
     }
   ]
-}
